@@ -1,2 +1,3 @@
 # Reading_Fluent_Python
-my notes from reading Fluent Python
+
+These are my notes from reading Luciano Ramalho: Fluent Python. Clear, Concise, and Effective Programming, 2022.
